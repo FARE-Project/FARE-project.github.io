@@ -1,0 +1,9 @@
+title: PRIN 2022 - Project FARE
+# email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  PRIN 2022 - Project FARE (Firmware Analysis for vulneRability dEtection) aims at devising novel static and dynamic analysis techniques able to identify portions of code that may contain software vulnerabilities in embedded systems.
+  baseurl: "/" # the subpath of your site, e.g. /blog
+  url: "https://fare-project.github.io/" # the base hostname & protocol for your site
+  
+  # Build settings
+  markdown: kramdown
